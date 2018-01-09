@@ -2,7 +2,7 @@
 title: Aditya Gudibanda
 description: A blog about the portfolio and offerings of Aditya Gudibanda
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://hrithikguy.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Aditya Gudibanda
